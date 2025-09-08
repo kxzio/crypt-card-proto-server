@@ -1,5 +1,7 @@
 # crypt-card proto server
 
+<img width="1740" height="796" alt="image" src="https://github.com/user-attachments/assets/d81e2dc4-ce04-488c-a7b9-2c03fbcbdca4" />
+
 ![kotlin](https://img.shields.io/badge/kotlin-1.9-blue.svg)
 ![gradle](https://img.shields.io/badge/gradle-8.3-green.svg)
 ![jdk](https://img.shields.io/badge/jdk-17+-orange.svg)
@@ -16,6 +18,9 @@ this is a kotlin project implementing a secure async client-server communication
 - async client/server using coroutines
 - configurable max message size and handshake limits
 - easy to run and extend
+
+
+<img width="1161" height="896" alt="image" src="https://github.com/user-attachments/assets/72750db3-0159-4762-900a-381584f75642" />
 
 ## technologies
 
